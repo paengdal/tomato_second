@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816589364738",
+    "project_id": "tomato-second",
+    "storage_bucket": "tomato-second.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816589364738:android:f1b2c501b199353cb2111b",
+        "android_client_info": {
+          "package_name": "com.neovision77.tomato_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816589364738-g6208m92cgroaumkr5krnfqgj7tlrp9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neovision77.tomato_record",
+            "certificate_hash": "e5e08f8db4ba9bdc93e88eda37a4413fc0b9f2da"
+          }
+        },
+        {
+          "client_id": "816589364738-jhk3bgmeq7d1qo3uhrsaq0hhr164n0b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs09lxauEUTPFMh9klMthyXnjJFo-GCZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816589364738-jhk3bgmeq7d1qo3uhrsaq0hhr164n0b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
